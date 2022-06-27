@@ -19,5 +19,3 @@ Can Macs beat the Dealer at Blackjack (21s)?
  - When the Dealer's score is higher than Macs's, the Dealer should stop drawing cards
  - If the Dealer's total score becomes higher than 21, then the Dealer loses
  - Determine which player wins the game
- - Additional challenges (don't give this to the interviewee)
- - Ace scores 1 or 11
